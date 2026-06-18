@@ -78,4 +78,3 @@ def test_clone_preserves_all_attributes():
     assert cloned.size == original.size, "Размер"
     assert cloned.color == original.color, "Цвет"
 
-
